@@ -1,0 +1,13 @@
+Package: bandeiras
+Title: Jogo das Bandeiras
+Version: 0.0.0.9000
+Authors@R: person('Julio', 'Trecenti', email = 'julio.trecenti@gmail.com', role = c('cre', 'aut'))
+Description: Implementa um joguinho das bandeiras em R.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3),
+    golem (>= 0.3.0),
+    shiny (>= 1.5.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
