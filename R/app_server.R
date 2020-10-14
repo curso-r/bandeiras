@@ -93,7 +93,7 @@ app_server <- function( input, output, session ) {
         
         shinyalert::shinyalert(
           praise::praise(),
-          paste("Sua pontua\u00e7\u00e3o foi de", pontos), 
+          paste0("Sua pontua\u00e7\u00e3o foi de ", pontos, "!"), 
         )
         
         shinyjs::disable("submeter")
