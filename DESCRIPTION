@@ -20,5 +20,6 @@ LazyData: true
 RoxygenNote: 7.1.1
 Depends: 
     R (>= 2.10)
+Remotes: ThinkR-Open/golem
 URL: https://github.com/curso-r/bandeiras
 BugReports: https://github.com/curso-r/bandeiras/issues
